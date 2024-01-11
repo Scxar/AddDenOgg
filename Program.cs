@@ -9,5 +9,7 @@ class Program
 		Console.WriteLine("Oscar skrev detta");
 		
 		Console.WriteLine("Dennis skrev detta");
+  
+    Console.WriteLine("Tjena grabbar!");
 	}
 }
