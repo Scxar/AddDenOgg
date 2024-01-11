@@ -2,10 +2,12 @@
 
 class Program
 {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Hello, World!");
 
-        Console.WriteLine("Oscar skrev detta");
-    }
+		Console.WriteLine("Oscar skrev detta");
+		
+		Console.WriteLine("Dennis skrev detta");
+	}
 }
