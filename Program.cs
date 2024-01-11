@@ -4,12 +4,9 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		Console.WriteLine("Hello, World!");
-
-		Console.WriteLine("Oscar skrev detta");
-		
-		Console.WriteLine("Dennis skrev detta");
-  
-    Console.WriteLine("Tjena grabbar!");
+		WriteLine("Hello, World!");
+		WriteLine("Oscar skrev detta");
+		WriteLine("Dennis skrev detta");
+    	WriteLine("Tjena grabbar!");
 	}
 }
