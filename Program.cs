@@ -7,6 +7,6 @@ class Program
 		WriteLine("Hello, World!");
 		WriteLine("Oscar skrev detta");
 		WriteLine("Dennis skrev detta");
-    	WriteLine("Tjena grabbar!");
+    		WriteLine("Tjena grabbar!");
 	}
 }
